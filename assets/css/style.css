@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    height: 100vh;
+    height: 100vh; 
     width: 100%;
     position: relative;
     background-image: url(../images/netflix-background.jpeg );
@@ -22,7 +22,7 @@ body::before {
 }
 
 .logo img {
-    height: 80px;
+    height: 100px;
     width: 167px;
 }
 
